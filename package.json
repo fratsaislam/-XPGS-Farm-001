@@ -1,0 +1,19 @@
+{
+  "name": "spam",
+  "version": "2.1.0",
+  "description": "Farm Credit ProBot copyright © Angry Black 2020",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "fs": "^0.0.2",
+    "node-opus": "^0.2.7",
+    "opusscript": "0.0.6",
+  "request": "^2.85.0"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
