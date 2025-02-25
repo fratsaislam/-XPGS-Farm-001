@@ -1,7 +1,7 @@
 {
   "name": "spam",
   "version": "2.1.0",
-  "description": "Farm Credit ProBot copyright © Angry Black 2020",
+  "description": "Farm Credit ProBot copyright © fratsaislam 2020",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
